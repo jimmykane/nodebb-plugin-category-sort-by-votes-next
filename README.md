@@ -6,6 +6,8 @@ Nodebb-Plugin-Category-Sort-By-Votes
 [![Downloads](https://img.shields.io/npm/dm/nodebb-plugin-category-sort-by-votes.svg)](https://www.npmjs.com/package/nodebb-plugin-category-sort-by-votes)
 
 
+Forked from https://github.com/dangerusslee/nodebb-plugin-category-sort-by-votes-next to be published and original Author is https://github.com/wktang/nodebb-plugin-category-sort-by-votes who has not been online to maintain this plugin
+
 Adds ability to sort topic by votes within a category to your NodeBB.
 
 ![image](https://cloud.githubusercontent.com/assets/2770875/16077770/b98ad47c-32af-11e6-8a96-bfee20cac031.png)
